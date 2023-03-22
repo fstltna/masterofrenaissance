@@ -1,0 +1,3 @@
+#!/bin/bash
+java -jar MasterOfRenaissanceClient.jar
+exit 0
